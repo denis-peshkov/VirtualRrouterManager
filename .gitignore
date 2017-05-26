@@ -1,0 +1,66 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+/.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+#ignore thumbnails created by windows
+Thumbs.db
+
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.dll
+*.lib
+*.sbr
+*.nupkg
+*.map
+*.orig
+*sln.ide
+bin/
+obj/
+**/packages/**/*.xml
+/Lib/
+/White Label Template/Publish/
+_Chutzpah.*.html
+*.sln.ide/
+
+#Ignore anything under NuGet packages folder
+/packages/
+
+#Ignore StyleCopReport.xml
+StyleCopReport.xml
+
+!Tools/*
+
+Binaries
+jasmine-result**

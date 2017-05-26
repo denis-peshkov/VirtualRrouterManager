@@ -1,11 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRouterManager", "VirtualRouterManager\VirtualRouterManager.csproj", "{0C8FFF36-5A8B-438E-B913-297D664BBCF2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRouterDevices", "VirtualRouterDevices\VirtualRouterDevices.csproj", "{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}"
-EndProject
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VirtualRouterManagerInstaller", "VirtualRouterManagerInstaller\VirtualRouterManagerInstaller.vdproj", "{1AE3B067-555E-4319-9C95-F0E92E1C550B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRouterDevices", "src\VirtualRouterDevices\VirtualRouterDevices.csproj", "{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRouterManager", "src\VirtualRouterManagerManager\VirtualRouterManager.csproj", "{0C8FFF36-5A8B-438E-B913-297D664BBCF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,30 +19,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.ClientDebug|Any CPU.ActiveCfg = ClientDebug|Any CPU
-		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.ClientDebug|Any CPU.Build.0 = ClientDebug|Any CPU
-		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.ClientDebug|x86.ActiveCfg = ClientDebug|x86
-		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.ClientDebug|x86.Build.0 = ClientDebug|x86
-		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Debug|x86.ActiveCfg = Debug|x86
-		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Debug|x86.Build.0 = Debug|x86
-		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Release|x86.ActiveCfg = Release|x86
-		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Release|x86.Build.0 = Release|x86
-		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.ClientDebug|Any CPU.ActiveCfg = ClientDebug|Any CPU
-		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.ClientDebug|Any CPU.Build.0 = ClientDebug|Any CPU
-		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.ClientDebug|x86.ActiveCfg = ClientDebug|x86
-		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.ClientDebug|x86.Build.0 = ClientDebug|x86
-		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Debug|x86.ActiveCfg = Debug|x86
-		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Debug|x86.Build.0 = Debug|x86
-		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Release|x86.ActiveCfg = Release|x86
-		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Release|x86.Build.0 = Release|x86
 		{1AE3B067-555E-4319-9C95-F0E92E1C550B}.ClientDebug|Any CPU.ActiveCfg = Debug
 		{1AE3B067-555E-4319-9C95-F0E92E1C550B}.ClientDebug|Any CPU.Build.0 = Debug
 		{1AE3B067-555E-4319-9C95-F0E92E1C550B}.ClientDebug|x86.ActiveCfg = Debug
@@ -53,12 +31,36 @@ Global
 		{1AE3B067-555E-4319-9C95-F0E92E1C550B}.Release|Any CPU.Build.0 = Release
 		{1AE3B067-555E-4319-9C95-F0E92E1C550B}.Release|x86.ActiveCfg = Release
 		{1AE3B067-555E-4319-9C95-F0E92E1C550B}.Release|x86.Build.0 = Release
+		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.ClientDebug|Any CPU.ActiveCfg = ClientDebug|Any CPU
+		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.ClientDebug|Any CPU.Build.0 = ClientDebug|Any CPU
+		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.ClientDebug|x86.ActiveCfg = ClientDebug|x86
+		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.ClientDebug|x86.Build.0 = ClientDebug|x86
+		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Debug|x86.ActiveCfg = Debug|x86
+		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Debug|x86.Build.0 = Debug|x86
+		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Release|x86.ActiveCfg = Release|x86
+		{0BCE9297-C6C6-44D7-BBA8-F35DFA711A0C}.Release|x86.Build.0 = Release|x86
+		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.ClientDebug|Any CPU.ActiveCfg = ClientDebug|Any CPU
+		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.ClientDebug|Any CPU.Build.0 = ClientDebug|Any CPU
+		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.ClientDebug|x86.ActiveCfg = ClientDebug|x86
+		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.ClientDebug|x86.Build.0 = ClientDebug|x86
+		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Debug|x86.ActiveCfg = Debug|x86
+		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Debug|x86.Build.0 = Debug|x86
+		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Release|x86.ActiveCfg = Release|x86
+		{0C8FFF36-5A8B-438E-B913-297D664BBCF2}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		CodeStyleEnforcer_Active = 0
 		CodeStyleEnforcer_RulesLocation = 
+		CodeStyleEnforcer_Active = 0
 	EndGlobalSection
 EndGlobal
