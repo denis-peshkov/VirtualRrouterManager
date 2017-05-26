@@ -54,18 +54,8 @@ obj/
 _Chutzpah.*.html
 *.sln.ide/
 
-#Do not ignore anything under NuGet packages folder (up to 5 levels of nesting)
-!**/packages/*/*/*/*/*.*
-!**/packages/*/*/*/*.*
-!**/packages/*/*/*.*
-!**/packages/*/*.*
-!**/packages/*.*
-
-#Ignore XML files under NuGet packages folder
-**/packages/**/*.xml
-**/packages/**/*.XML
-!**/packages/build/
-!**/packages/.gitignore
+#Ignore anything under NuGet packages folder
+/packages/
 
 #Ignore StyleCopReport.xml
 StyleCopReport.xml
