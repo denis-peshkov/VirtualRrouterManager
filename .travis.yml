@@ -4,6 +4,7 @@ solution: VirtualRouterManager.sln
 script:
   - grep "Test Results" build.log
 dotnet: 1.0.1
+dist: trusty
 install:
 #  - sudo apt-get install nunit-console
 #  - sudo apt-get install dotnet-dev-1.0.4
