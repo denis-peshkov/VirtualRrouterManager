@@ -5,6 +5,7 @@ script:
   - grep "Test Results" build.log
 install:
 #  - sudo apt-get install nunit-console
+  - sudo apt-get install dotnet-dev-1.1.2
   - nuget restore VirtualRouterManager.sln
 #  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
 script:
