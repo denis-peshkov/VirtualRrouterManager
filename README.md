@@ -2,6 +2,9 @@
 
 # Virtual Router Manager - Wifi Hot Spot for Windows XP, 7, 8 and 2008 R2
 
+[![Build Status](https://travis-ci.org/denis-peshkov/VirtualRrouterManager.svg?branch=master)](https://travis-ci.org/denis-peshkov/VirtualRrouterManager)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/denis-peshkov/VirtualRouterManager)
+
 ## Project Description
 
 Virtual Router Manager turns any Windows 7, 8 or 2008 R2 computer into a Wifi Hot Spot using Windows Wireless Hosted Network (Virtual Wifi) technology.
