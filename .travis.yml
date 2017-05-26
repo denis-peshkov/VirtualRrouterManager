@@ -4,8 +4,9 @@ solution: VirtualRouterManager.sln
 script:
   - grep "Test Results" build.log
 install:
+#  - sudo apt-get install nunit-console
   - nuget restore VirtualRouterManager.sln
-  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
+#  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release VirtualRouterManager.sln
 #  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./MyProject.Tests/bin/Release/MyProject.Tests.dll
