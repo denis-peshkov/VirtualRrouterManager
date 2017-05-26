@@ -15,242 +15,128 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_01CCB6172A0BCABC0D07140BA22BB9CF"
-        "OwnerKey" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
+        "MsmKey" = "8:_01B69C8EDEF45BF662AD359FF2AA738F"
+        "OwnerKey" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_1C57E6CE7CC70B64434C58CBD07017F2"
-        "OwnerKey" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
+        "MsmKey" = "8:_0C31A9DC030C87CC5022B2FC9E6872A5"
+        "OwnerKey" = "8:_01B69C8EDEF45BF662AD359FF2AA738F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_1D4E41E4570645B0A032F5C32A762358"
+        "MsmKey" = "8:_0C31A9DC030C87CC5022B2FC9E6872A5"
+        "OwnerKey" = "8:_ECB9E993C1547414B959F9EF1BA68559"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0C31A9DC030C87CC5022B2FC9E6872A5"
+        "OwnerKey" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_97BC63EAC8CD3446DBF44D8CCB56867D"
+        "OwnerKey" = "8:_F915C9AE32DDD9D33F20EA4462D46252"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_97BC63EAC8CD3446DBF44D8CCB56867D"
+        "OwnerKey" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_97BC63EAC8CD3446DBF44D8CCB56867D"
+        "OwnerKey" = "8:_ECB9E993C1547414B959F9EF1BA68559"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_32B78D68C34F0651ED5B14B071911FE6"
-        "OwnerKey" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_36B6758DBF48EF58800296DFA16737E6"
-        "OwnerKey" = "8:_BE9FF2ED5683250C23003A40760B268C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3C07FC83BE6B31665EFC74FBF0DFF096"
-        "OwnerKey" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3C07FC83BE6B31665EFC74FBF0DFF096"
-        "OwnerKey" = "8:_4E565B6D15CBC4121AAB864F40C50EAE"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4E565B6D15CBC4121AAB864F40C50EAE"
-        "OwnerKey" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4E565B6D15CBC4121AAB864F40C50EAE"
-        "OwnerKey" = "8:_01CCB6172A0BCABC0D07140BA22BB9CF"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4E565B6D15CBC4121AAB864F40C50EAE"
-        "OwnerKey" = "8:_1C57E6CE7CC70B64434C58CBD07017F2"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_66C1CF2FEC7A4F5B8E255B7248D57933"
+        "MsmKey" = "8:_DD8A175BBDEE488DBEDE356266FEE270"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_E9D71BD8BC8C1162A0EAF68BFAC6CE31"
+        "OwnerKey" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_81F810F0A3F1AE654440E2D94527AA8A"
-        "OwnerKey" = "8:_32B78D68C34F0651ED5B14B071911FE6"
+        "MsmKey" = "8:_ECB9E993C1547414B959F9EF1BA68559"
+        "OwnerKey" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_81F810F0A3F1AE654440E2D94527AA8A"
-        "OwnerKey" = "8:_01CCB6172A0BCABC0D07140BA22BB9CF"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_81F810F0A3F1AE654440E2D94527AA8A"
-        "OwnerKey" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_8404D19851BE4A0CB7DEE7017474AB25"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_88E9AC1443614F5CA4B52B633FB7D90C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B9C59D385087470BA55BC4B85A19D379"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_BE9FF2ED5683250C23003A40760B268C"
-        "OwnerKey" = "8:_88E9AC1443614F5CA4B52B633FB7D90C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_BE9FF2ED5683250C23003A40760B268C"
-        "OwnerKey" = "8:_DA404187578B49A89F579CD7BF2644DA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C8558CBD353D5037C903B4BD844D9DCA"
-        "OwnerKey" = "8:_BE9FF2ED5683250C23003A40760B268C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C87AEA3C1F23C5132BA1E48140340C3E"
-        "OwnerKey" = "8:_BE9FF2ED5683250C23003A40760B268C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C87AEA3C1F23C5132BA1E48140340C3E"
-        "OwnerKey" = "8:_C8558CBD353D5037C903B4BD844D9DCA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_DA404187578B49A89F579CD7BF2644DA"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E58CD854430F16BCF33E1C1310467663"
-        "OwnerKey" = "8:_C87AEA3C1F23C5132BA1E48140340C3E"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F897675D23174D77BF4CABAE1A3E3616"
-        "OwnerKey" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
+        "MsmKey" = "8:_F915C9AE32DDD9D33F20EA4462D46252"
+        "OwnerKey" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_1C57E6CE7CC70B64434C58CBD07017F2"
+        "OwnerKey" = "8:_0C31A9DC030C87CC5022B2FC9E6872A5"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
+        "OwnerKey" = "8:_01B69C8EDEF45BF662AD359FF2AA738F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_3C07FC83BE6B31665EFC74FBF0DFF096"
+        "OwnerKey" = "8:_ECB9E993C1547414B959F9EF1BA68559"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F897675D23174D77BF4CABAE1A3E3616"
+        "OwnerKey" = "8:_97BC63EAC8CD3446DBF44D8CCB56867D"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_32B78D68C34F0651ED5B14B071911FE6"
+        "OwnerKey" = "8:_F915C9AE32DDD9D33F20EA4462D46252"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_81F810F0A3F1AE654440E2D94527AA8A"
+        "OwnerKey" = "8:_E9D71BD8BC8C1162A0EAF68BFAC6CE31"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4E565B6D15CBC4121AAB864F40C50EAE"
+        "OwnerKey" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_01CCB6172A0BCABC0D07140BA22BB9CF"
+        "OwnerKey" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_88E9AC1443614F5CA4B52B633FB7D90C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_BE9FF2ED5683250C23003A40760B268C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_C87AEA3C1F23C5132BA1E48140340C3E"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_C8558CBD353D5037C903B4BD844D9DCA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_36B6758DBF48EF58800296DFA16737E6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_DA404187578B49A89F579CD7BF2644DA"
+        "OwnerKey" = "8:_0C31A9DC030C87CC5022B2FC9E6872A5"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -280,10 +166,10 @@
             "ComponentsUrl" = "8:"
                 "Items"
                 {
-                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:Microsoft.Net.Framework.3.5.SP1"
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.0,Profile=Client"
                     {
-                    "Name" = "8:.NET Framework 3.5 SP1"
-                    "ProductCode" = "8:Microsoft.Net.Framework.3.5.SP1"
+                    "Name" = "8:Microsoft .NET Framework 4 Client Profile (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.0,Profile=Client"
                     }
                     "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:Microsoft.Windows.Installer.3.1"
                     {
@@ -335,115 +221,59 @@
     {
         "CustomAction"
         {
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_06DB56EA3447418DB6E483F810C9D08A"
-            {
-            "Name" = "8:VirtualRouterService.exe"
-            "Condition" = "8:"
-            "Object" = "8:_DA404187578B49A89F579CD7BF2644DA"
-            "FileType" = "3:2"
-            "InstallAction" = "3:1"
-            "Arguments" = "8:"
-            "EntryPoint" = "8:"
-            "Sequence" = "3:1"
-            "Identifier" = "8:_3A3D0D0D_C132_47A8_9C11_C5D65D41E900"
-            "InstallerClass" = "11:TRUE"
-            "CustomActionData" = "8:"
-            }
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_1E5BBEF123F64DB6BB72E7F39C00FC9E"
-            {
-            "Name" = "8:VirtualRouterService.exe"
-            "Condition" = "8:"
-            "Object" = "8:_DA404187578B49A89F579CD7BF2644DA"
-            "FileType" = "3:2"
-            "InstallAction" = "3:4"
-            "Arguments" = "8:"
-            "EntryPoint" = "8:"
-            "Sequence" = "3:1"
-            "Identifier" = "8:_908D7EF4_5F20_48AF_B7B0_4794F1B4A5C7"
-            "InstallerClass" = "11:TRUE"
-            "CustomActionData" = "8:"
-            }
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_2DE84FA2B3DF480385B5C9465541FF13"
+            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_148AC6AA6E7842EC82011B5BBB642F35"
             {
             "Name" = "8:Primary output from VirtualRouterManager (Active)"
             "Condition" = "8:"
-            "Object" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
-            "FileType" = "3:2"
-            "InstallAction" = "3:2"
-            "Arguments" = "8:"
-            "EntryPoint" = "8:"
-            "Sequence" = "3:2"
-            "Identifier" = "8:_3C573601_5A91_454C_9330_76E93DE849AA"
-            "InstallerClass" = "11:TRUE"
-            "CustomActionData" = "8:"
-            }
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_5A87D85AB9B144B5AA2032324020D0D1"
-            {
-            "Name" = "8:VirtualRouterService.exe"
-            "Condition" = "8:"
-            "Object" = "8:_DA404187578B49A89F579CD7BF2644DA"
+            "Object" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
             "FileType" = "3:2"
             "InstallAction" = "3:2"
             "Arguments" = "8:"
             "EntryPoint" = "8:"
             "Sequence" = "3:1"
-            "Identifier" = "8:_03393570_639E_4643_A18E_8EAFE98ECE25"
+            "Identifier" = "8:_F612FFF4_E1B0_4E70_973D_E7B4E0653259"
             "InstallerClass" = "11:TRUE"
             "CustomActionData" = "8:"
             }
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_728731E6DDF54F449BBEA5C146BF5284"
+            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_4EB7AFFD39CE4857B59B3266D5AA44C2"
             {
             "Name" = "8:Primary output from VirtualRouterManager (Active)"
             "Condition" = "8:"
-            "Object" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
-            "FileType" = "3:2"
-            "InstallAction" = "3:3"
-            "Arguments" = "8:"
-            "EntryPoint" = "8:"
-            "Sequence" = "3:2"
-            "Identifier" = "8:_866501CF_7C65_4AB5_A8D8_78DA2049B80B"
-            "InstallerClass" = "11:TRUE"
-            "CustomActionData" = "8:"
-            }
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_8A15D311DCF544FCB922598C93996111"
-            {
-            "Name" = "8:VirtualRouterService.exe"
-            "Condition" = "8:"
-            "Object" = "8:_DA404187578B49A89F579CD7BF2644DA"
+            "Object" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
             "FileType" = "3:2"
             "InstallAction" = "3:3"
             "Arguments" = "8:"
             "EntryPoint" = "8:"
             "Sequence" = "3:1"
-            "Identifier" = "8:_DFA8FBC0_71B0_4AF8_A302_7151BAD5F9D3"
+            "Identifier" = "8:_CBB1A32B_06FC_4D37_BE4E_6CA9DF25C4F3"
             "InstallerClass" = "11:TRUE"
             "CustomActionData" = "8:"
             }
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_907B927CD53E4361977B7F9090E8BBE0"
+            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_61246357071F4DACAB3AB752F8504BCF"
             {
             "Name" = "8:Primary output from VirtualRouterManager (Active)"
             "Condition" = "8:"
-            "Object" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
+            "Object" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
             "FileType" = "3:2"
             "InstallAction" = "3:4"
             "Arguments" = "8:"
             "EntryPoint" = "8:"
-            "Sequence" = "3:2"
-            "Identifier" = "8:_2B8A7033_BBF4_4A95_83A0_B4D803C26A66"
+            "Sequence" = "3:1"
+            "Identifier" = "8:_E1B67F42_1C82_40F8_8C2E_0EE09776B6BF"
             "InstallerClass" = "11:TRUE"
             "CustomActionData" = "8:"
             }
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_E5107DFD52AB4C4781A99D04E4869C80"
+            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_817FA0E0106343AB8CAB756D7A7D9D94"
             {
             "Name" = "8:Primary output from VirtualRouterManager (Active)"
             "Condition" = "8:"
-            "Object" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
+            "Object" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
             "FileType" = "3:2"
             "InstallAction" = "3:1"
             "Arguments" = "8:"
             "EntryPoint" = "8:"
-            "Sequence" = "3:2"
-            "Identifier" = "8:_0C384088_3CD2_4B9C_B0FA_1854BF6745BC"
+            "Sequence" = "3:1"
+            "Identifier" = "8:_05C7FC1C_487C_4D0B_857A_BC69C5D9C624"
             "InstallerClass" = "11:TRUE"
             "CustomActionData" = "8:"
             }
@@ -470,39 +300,18 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_01CCB6172A0BCABC0D07140BA22BB9CF"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Practices.Prism.Interactivity, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                }
-            "SourcePath" = "8:Microsoft.Practices.Prism.Interactivity.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1C57E6CE7CC70B64434C58CBD07017F2"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_01B69C8EDEF45BF662AD359FF2AA738F"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:VirtualRouterDevices, Version=0.9.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_01B69C8EDEF45BF662AD359FF2AA738F"
+                    {
+                    "Name" = "8:VirtualRouterDevices.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:VirtualRouterDevices.dll"
             "TargetName" = "8:"
@@ -522,113 +331,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1D4E41E4570645B0A032F5C32A762358"
-            {
-            "SourcePath" = "8:..\\..\\..\\Lib\\VirtualRouterService.exe.config"
-            "TargetName" = "8:VirtualRouterService.exe.config"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_32B78D68C34F0651ED5B14B071911FE6"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Expression.Interactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                }
-            "SourcePath" = "8:Microsoft.Expression.Interactions.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_36B6758DBF48EF58800296DFA16737E6"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:VirtualRouter.Wlan, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                }
-            "SourcePath" = "8:VirtualRouter.Wlan.DLL"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3C07FC83BE6B31665EFC74FBF0DFF096"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                }
-            "SourcePath" = "8:Microsoft.Practices.ServiceLocation.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4E565B6D15CBC4121AAB864F40C50EAE"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0C31A9DC030C87CC5022B2FC9E6872A5"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Microsoft.Practices.Prism, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_0C31A9DC030C87CC5022B2FC9E6872A5"
+                    {
+                    "Name" = "8:Microsoft.Practices.Prism.DLL"
+                    "Attributes" = "3:512"
+                    }
                 }
-            "SourcePath" = "8:Microsoft.Practices.Prism.dll"
+            "SourcePath" = "8:Microsoft.Practices.Prism.DLL"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
@@ -646,33 +362,18 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_66C1CF2FEC7A4F5B8E255B7248D57933"
-            {
-            "SourcePath" = "8:..\\..\\..\\Images\\VirtualRouterSetupBanner.jpg"
-            "TargetName" = "8:VirtualRouterSetupBanner.jpg"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_81F810F0A3F1AE654440E2D94527AA8A"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_97BC63EAC8CD3446DBF44D8CCB56867D"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:System.Windows.Interactivity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_97BC63EAC8CD3446DBF44D8CCB56867D"
+                    {
+                    "Name" = "8:System.Windows.Interactivity.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:System.Windows.Interactivity.dll"
             "TargetName" = "8:"
@@ -692,10 +393,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8404D19851BE4A0CB7DEE7017474AB25"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DD8A175BBDEE488DBEDE356266FEE270"
             {
-            "SourcePath" = "8:..\\..\\..\\Images\\favicon.ico"
-            "TargetName" = "8:favicon.ico"
+            "SourcePath" = "8:..\\..\\img\\VirtualRouterSetupBanner.jpg"
+            "TargetName" = "8:VirtualRouterSetupBanner.jpg"
             "Tag" = "8:"
             "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
             "Condition" = "8:"
@@ -712,195 +413,82 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_88E9AC1443614F5CA4B52B633FB7D90C"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:VirtualRouterHostConsole, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_88E9AC1443614F5CA4B52B633FB7D90C"
-                    {
-                    "Name" = "8:VirtualRouterHostConsole.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\..\\..\\Lib\\VirtualRouterHostConsole.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B9C59D385087470BA55BC4B85A19D379"
-            {
-            "SourcePath" = "8:..\\..\\..\\Lib\\VirtualRouterHostConsole.exe.config"
-            "TargetName" = "8:VirtualRouterHostConsole.exe.config"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BE9FF2ED5683250C23003A40760B268C"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:VirtualRouterHost, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                }
-            "SourcePath" = "8:VirtualRouterHost.DLL"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C8558CBD353D5037C903B4BD844D9DCA"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:VirtualRouter.ICS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                }
-            "SourcePath" = "8:VirtualRouter.ICS.DLL"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C87AEA3C1F23C5132BA1E48140340C3E"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Interop.NETCONLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                }
-            "SourcePath" = "8:Interop.NETCONLib.DLL"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DA404187578B49A89F579CD7BF2644DA"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:VirtualRouterService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_DA404187578B49A89F579CD7BF2644DA"
-                    {
-                    "Name" = "8:VirtualRouterService.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\..\\..\\Lib\\VirtualRouterService.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E58CD854430F16BCF33E1C1310467663"
-            {
-            "SourcePath" = "8:hnetcfg.dll"
-            "TargetName" = "8:hnetcfg.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F897675D23174D77BF4CABAE1A3E3616"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E9D71BD8BC8C1162A0EAF68BFAC6CE31"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_E9D71BD8BC8C1162A0EAF68BFAC6CE31"
+                    {
+                    "Name" = "8:log4net.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:log4net.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_ECB9E993C1547414B959F9EF1BA68559"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Practices.Prism.Interactivity, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_ECB9E993C1547414B959F9EF1BA68559"
+                    {
+                    "Name" = "8:Microsoft.Practices.Prism.Interactivity.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.Practices.Prism.Interactivity.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F915C9AE32DDD9D33F20EA4462D46252"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Expression.Interactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_F915C9AE32DDD9D33F20EA4462D46252"
+                    {
+                    "Name" = "8:Microsoft.Expression.Interactions.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.Expression.Interactions.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
@@ -1004,7 +592,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Virtual Router Manager v0.9.0"
         "ProductCode" = "8:{FC21C744-2ECE-4D1B-BD63-876AA7ADD4A5}"
-        "PackageCode" = "8:{E2E3507D-6DC1-4888-8420-D94772072261}"
+        "PackageCode" = "8:{7DA25CFD-D04B-4D5E-9497-C3861FFB2C2B}"
         "UpgradeCode" = "8:{58F19912-A73D-492B-AEEC-E805D022B19B}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -1021,8 +609,8 @@
         "Keywords" = "8:wifi router hotspot"
         "ARPCOMMENTS" = "8:Wifi Hot Spot for Windows XP and later"
         "ARPURLINFOABOUT" = "8:http://peshkov.biz"
-        "ARPPRODUCTICON" = "8:_8404D19851BE4A0CB7DEE7017474AB25"
-        "ARPIconIndex" = "3:0"
+        "ARPPRODUCTICON" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
+        "ARPIconIndex" = "3:32512"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
         "TargetPlatform" = "3:0"
@@ -1130,26 +718,12 @@
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
+            "IconIndex" = "3:32512"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
+            "Target" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
             "Folder" = "8:_811F097ACB8546D6B2BA50B61BF18E08"
             "WorkingFolder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Icon" = "8:_8404D19851BE4A0CB7DEE7017474AB25"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_909BEF40DCB44932BEC42CB96F6C92F6"
-            {
-            "Name" = "8:Virtual Router Manager"
-            "Arguments" = "8:/min"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_7ACDBA9E523F478681091B8E35B16CAF"
-            "Folder" = "8:_9E704F2AE7CD40F9B1E28D74E8436480"
-            "WorkingFolder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
-            "Icon" = "8:_8404D19851BE4A0CB7DEE7017474AB25"
+            "Icon" = "8:_A71924F66C7E40CB92EDE24EC50ACD76"
             "Feature" = "8:"
             }
         }
@@ -1180,7 +754,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_66C1CF2FEC7A4F5B8E255B7248D57933"
+                            "Value" = "8:_DD8A175BBDEE488DBEDE356266FEE270"
                             "UsePlugInResources" = "11:TRUE"
                             }
                             "UpdateText"
@@ -1231,7 +805,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_66C1CF2FEC7A4F5B8E255B7248D57933"
+                            "Value" = "8:_DD8A175BBDEE488DBEDE356266FEE270"
                             "UsePlugInResources" = "11:TRUE"
                             }
                             "ShowProgress"
@@ -1276,7 +850,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_66C1CF2FEC7A4F5B8E255B7248D57933"
+                            "Value" = "8:_DD8A175BBDEE488DBEDE356266FEE270"
                             "UsePlugInResources" = "11:TRUE"
                             }
                         }
@@ -1308,7 +882,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_66C1CF2FEC7A4F5B8E255B7248D57933"
+                            "Value" = "8:_DD8A175BBDEE488DBEDE356266FEE270"
                             "UsePlugInResources" = "11:TRUE"
                             }
                             "ShowProgress"
@@ -1353,7 +927,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_66C1CF2FEC7A4F5B8E255B7248D57933"
+                            "Value" = "8:_DD8A175BBDEE488DBEDE356266FEE270"
                             "UsePlugInResources" = "11:TRUE"
                             }
                         }
@@ -1376,7 +950,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_66C1CF2FEC7A4F5B8E255B7248D57933"
+                            "Value" = "8:_DD8A175BBDEE488DBEDE356266FEE270"
                             "UsePlugInResources" = "11:TRUE"
                             }
                             "CopyrightWarning"
@@ -1425,7 +999,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_66C1CF2FEC7A4F5B8E255B7248D57933"
+                            "Value" = "8:_DD8A175BBDEE488DBEDE356266FEE270"
                             "UsePlugInResources" = "11:TRUE"
                             }
                         }
@@ -1463,7 +1037,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_66C1CF2FEC7A4F5B8E255B7248D57933"
+                            "Value" = "8:_DD8A175BBDEE488DBEDE356266FEE270"
                             "UsePlugInResources" = "11:TRUE"
                             }
                         }
@@ -1486,7 +1060,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_66C1CF2FEC7A4F5B8E255B7248D57933"
+                            "Value" = "8:_DD8A175BBDEE488DBEDE356266FEE270"
                             "UsePlugInResources" = "11:TRUE"
                             }
                             "CopyrightWarning"
@@ -1535,7 +1109,7 @@
                             "ContextData" = "8:Bitmap"
                             "Attributes" = "3:4"
                             "Setting" = "3:2"
-                            "Value" = "8:_66C1CF2FEC7A4F5B8E255B7248D57933"
+                            "Value" = "8:_DD8A175BBDEE488DBEDE356266FEE270"
                             "UsePlugInResources" = "11:TRUE"
                             }
                             "InstallAllUsersVisible"
@@ -1561,9 +1135,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_7ACDBA9E523F478681091B8E35B16CAF"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_A71924F66C7E40CB92EDE24EC50ACD76"
             {
-            "SourcePath" = "8:..\\VirtualRouterManager\\obj\\Debug\\VirtualRouterManager.exe"
+            "SourcePath" = "8:..\\VirtualRouterManagerManager\\obj\\Debug\\VirtualRouterManager.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_4F26FC34328E4A5EA810CB679F88CA37"
