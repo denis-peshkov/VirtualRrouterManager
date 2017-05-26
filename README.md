@@ -1,4 +1,6 @@
-# VirtualRrouterManager
+![](https://github.com/denis-peshkov/VirtualRrouterManager/blob/master/img/Logo.jpg) | Virtual Router Manager - Wifi Hot Spot for Windows XP, 7, 8 and 2008 R2
+-- | --
+
 ## Project Description
 
 Virtual Router Manager turns any Windows 7, 8 or 2008 R2 computer into a Wifi Hot Spot using Windows Wireless Hosted Network (Virtual Wifi) technology.
@@ -13,7 +15,7 @@ We are preparing v.1.0 and we need your support!
 
 Unlike similar applications, Virtual Router is not only completely Free, but will not annoy you with any advertisements. Also, since Virtual Router is not ad-supported, it does not track your web traffic the way other ad-supported applications do/can.
 
-![Programm screenshots](https://github.com/denis-peshkov/VirtualRrouterManager/blob/master/img/image.png)
+![Programm screenshots](https://github.com/denis-peshkov/VirtualRrouterManager/blob/master/img/Screenshot1.png)
 
 The Wireless Network create/shared with Virtual Router uses WPA2 Encryption, and there is not way to turn off that encryption. This is actually a feature of the Wireless Hosted Network API's built into Windows 7 and 2008 R2 to ensure the best security possible.
 
