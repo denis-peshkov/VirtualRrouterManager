@@ -1,5 +1,6 @@
-![](https://github.com/denis-peshkov/VirtualRrouterManager/blob/master/img/Logo.jpg) | Virtual Router Manager - Wifi Hot Spot for Windows XP, 7, 8 and 2008 R2
--- | --
+<img align="right" src="https://github.com/denis-peshkov/VirtualRrouterManager/blob/master/img/Logo.jpg" alt="" style="float:right">
+
+# Virtual Router Manager - Wifi Hot Spot for Windows XP, 7, 8 and 2008 R2
 
 ## Project Description
 
