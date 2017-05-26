@@ -13,6 +13,8 @@ We are preparing v.1.0 and we need your support!
 
 Unlike similar applications, Virtual Router is not only completely Free, but will not annoy you with any advertisements. Also, since Virtual Router is not ad-supported, it does not track your web traffic the way other ad-supported applications do/can.
 
+![Programm screenshots](https://github.com/denis-peshkov/VirtualRrouterManager/blob/master/img/image.png)
+
 The Wireless Network create/shared with Virtual Router uses WPA2 Encryption, and there is not way to turn off that encryption. This is actually a feature of the Wireless Hosted Network API's built into Windows 7 and 2008 R2 to ensure the best security possible.
 
 You can give your "virtual" wireless network any name you want, and also set the password to anything. Just make sure the password is at least 8 characters.
