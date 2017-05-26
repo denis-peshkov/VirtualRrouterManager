@@ -7,7 +7,7 @@ Virtual Router Manager turns any Windows 7, 8 or 2008 R2 computer into a Wifi Ho
 
 ## Roadmap and future development
 
-We are preparing v.1.0 and we need your support!
+We are preparing [v.1.0.0](https://github.com/denis-peshkov/VirtualRrouterManager/wiki/Release-1.0.0) and we need your support!
 
 <a href='https://pledgie.com/campaigns/19441'><img alt='Click here to lend your support to: Virtual Router Manager and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/19441.png?skin_name=chrome' border='0' ></a>
 
@@ -25,4 +25,4 @@ BTW, this project is written entirely in C#.
 
 ## Contributors
 
-Denis Peshkov - Denis is a software developer, a Co-Founder of CSE, and the Owner of Maton Ltd a software development consulting company that specializes in solution end application development. You can view Denis' blog at http://peshkov.biz.
+Denis Peshkov - Denis is a software developer, a [Co-Founder of CSE](http://cse.com/), and the [Owner of Maton Ltd](http://maton.com.ua/) a software development consulting company that specializes in solution end application development. You can view Denis' blog at http://peshkov.biz.
