@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/denis-peshkov/VirtualRrouterManager.svg?branch=master)](https://travis-ci.org/denis-peshkov/VirtualRrouterManager)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/denis-peshkov/VirtualRouterManager)
-[![Waffle.io - Issues in progress](https://badge.waffle.io/denis-peshkov/VirtualRrouterManager.png?label=in%20progress&title=In%20Progress)](http://waffle.io/denis-peshkov/VirtualRrouterManager)
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/denis-peshkov/VirtualRrouterManager.svg?columns=all)](https://waffle.io/denis-peshkov/VirtualRrouterManager)
 
 ## Project Description
 
